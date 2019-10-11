@@ -1,5 +1,5 @@
 # gameofthrones
-Character Interaction Networks for the HBO Series "Game of Thrones"
+Character Interaction Networks for the HBO Series "Game of Thrones".
 
 These networks were created by parsing fan-generated scripts from https://genius.com/artists/Game-of-thrones.
 Pairs of characters are connected by (undirected) edges weighted by the number of interactions.
